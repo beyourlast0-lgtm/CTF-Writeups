@@ -11,3 +11,6 @@
 ##  Solution
 ```bash
 cat flag
+
+🚩 Flag
+picoCTF{s4n1ty_v3r1f13d_9b8fa0bc}
