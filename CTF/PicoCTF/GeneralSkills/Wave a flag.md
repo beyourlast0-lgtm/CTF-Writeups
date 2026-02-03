@@ -36,8 +36,6 @@ picoCTF{b1scu1ts_4nd_gr4vy_ac5832c}
 
 ---
 
-## ✅ 커밋 메시지 추천 (이거 그대로 써도 좋음)
-
 ```bash
 git add .
 git commit -m "picoCTF: General Skills - Wave a flag"
